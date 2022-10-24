@@ -29,4 +29,4 @@ Create New Project
 Latihan3
 Dan Nama File main.py
 ### Hasil Praktikum
-![Gambar 4](Screenshoot/ss4.png)
+![Gambar 4](Screenshoot/ss4.jpeg)
